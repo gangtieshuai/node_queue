@@ -1,0 +1,17 @@
+node_modules/
+logs/
+files/
+jsonFile/
+# config
+/cloud/config/env.json
+.env
+
+# vim
+tags
+
+# mac
+.DS_Store
+newrelic_agent.log
+
+# idea
+.idea
